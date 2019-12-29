@@ -1,0 +1,31 @@
+{
+  "name": "project_admin",
+  "version": "1.0.0",
+  "description": "Job Portal",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/du0079/Project_admin.git"
+  },
+  "keywords": [
+    "career"
+  ],
+  "author": "du0079",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/du0079/Project_admin/issues"
+  },
+  "homepage": "https://github.com/du0079/Project_admin#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "express-sanitizer": "^1.0.5",
+    "method-override": "^3.0.0",
+    "mongoose": "^5.8.3",
+    "passport": "^0.4.1"
+  }
+}
